@@ -1,10 +1,10 @@
-# Demo
-![Screenshot_27-5-2025_01851_github com](https://github.com/user-attachments/assets/f7acd48a-55ff-4853-a565-dd3645997a1a)
-![Screenshot_27-5-2025_02212_github com](https://github.com/user-attachments/assets/2f7875e5-b035-4a47-b113-6664ac7e5895)
 
 
 # AR-WatchTryOn
 Ar-WatchTryOn is a project that allows users to virtually try on different watches and customize the color of the strap. It provides an immersive augmented reality experience where users can see how different watches look on their wrists before making a purchase decision.
+# Demo
+![Screenshot_27-5-2025_01851_github com](https://github.com/user-attachments/assets/f7acd48a-55ff-4853-a565-dd3645997a1a)
+![Screenshot_27-5-2025_02212_github com](https://github.com/user-attachments/assets/2f7875e5-b035-4a47-b113-6664ac7e5895)
 # Features
 * Virtual Watch Try-On: Users can use their device's camera to see a virtual representation of different watches on their wrist in real-time. This feature provides an interactive and engaging way for users to explore various watch designs.
 
